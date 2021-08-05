@@ -1,0 +1,6 @@
+function main() {
+    var oldPass = readLine();
+    var newPass = readLine();
+        console.log(oldPass == newPass);
+    
+}
